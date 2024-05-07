@@ -6,17 +6,17 @@ To benefit fully from the tutorial, please download Anaconda (=Python) onto your
 
 ### Tutorial Schedule
 9:00 - 9:15 Introduction\
-9:15 - 9:35 Sentence embeddings
-9:35 - 9:45 Questions
-9:45 - 9:55 Measuring item bias
-9:55 - 10:15 Reducing item bias
-10:15 - 10:25 Break
-10:25 - 10:45 Reducing dimensionality & clustering
-10:45 - 10:55 Questions
-10:55 - 11:05 Checking robustness
-11:05 - 11:20 Validating clusters
-11:20 - 11:30 Interpreting and comparing
-11:30 - 12:00 Revisiting exercises, questions, discussion
+9:15 - 9:35 Sentence embeddings\
+9:35 - 9:45 Questions\
+9:45 - 9:55 Measuring item bias\
+9:55 - 10:15 Reducing item bias\
+10:15 - 10:25 Break\
+10:25 - 10:45 Reducing dimensionality & clustering\
+10:45 - 10:55 Questions\
+10:55 - 11:05 Checking robustness\
+11:05 - 11:20 Validating clusters\
+11:20 - 11:30 Interpreting and comparing\
+11:30 - 12:00 Revisiting exercises, questions, discussion\
 12:00 - ? Lunch at Spangler for people on site
 
 ### Packages needed
